@@ -1,1 +1,7 @@
-/* css goes here :) */
+hr {
+height: 1px;
+color: #cc0000;
+border-color:#cc0000;
+background-color: #cc0000;
+border: none;
+}
