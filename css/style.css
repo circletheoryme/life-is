@@ -30,6 +30,7 @@ p{
   width:80px;
   background-color:#00fa12;
   display:inline-block;
+  margin:-20px;
 }
 .circle_2{
   border-radius:50%;
@@ -44,4 +45,5 @@ p{
   width:80px;
   background-color:#cc0000;
   display:inline-block;
+  margin:-20px;
 }
