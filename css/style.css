@@ -24,3 +24,24 @@ p{
 .header{
   text-align:center;
 }
+.circle_1{
+  border-radius:50%;
+  height:80px;
+  width:80px;
+  background-color:#00fa12;
+  display:inline-block;
+}
+.circle_2{
+  border-radius:50%;
+  height:80px;
+  width:80px;
+  background-color:#d3d3d3;
+  display:inline-block;
+}
+.circle_3{
+  border-radius:50%;
+  height:80px;
+  width:80px;
+  background-color:#cc0000;
+  display:inline-block;
+}
