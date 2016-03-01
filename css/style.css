@@ -47,3 +47,8 @@ p{
   display:inline-block;
   margin:-20px;
 }
+.circle-container{
+  margin:0 auto;
+  height:200px;
+  width:300px;
+}
